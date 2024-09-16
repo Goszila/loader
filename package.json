@@ -1,0 +1,19 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "loader npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goszila/loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goszila/loader/issues"
+  },
+  "homepage": "https://github.com/Goszila/loader#readme"
+}
