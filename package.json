@@ -1,5 +1,5 @@
 {
-  "name": "loader",
+  "name": "Goszila/loader",
   "version": "1.0.0",
   "description": "loader npm package",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Goszila/loader/issues"
   },
-  "homepage": "https://github.com/Goszila/loader#readme"
+  "homepage": "https://github.com/Goszila/loader#readme",
+  "publishConfig": {
+    "@Goszila:registry": "https://npm.pkg.github.com"
+  }
 }
