@@ -1,5 +1,5 @@
 {
-  "name": "Goszila/loader",
+  "name": "loader",
   "version": "1.0.0",
   "description": "loader npm package",
   "main": "index.js",
